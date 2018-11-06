@@ -1,0 +1,7 @@
+platform :ios, ‘10.0’
+
+target 'HppleParseHtmlDemo' do
+
+pod 'hpple', '~> 0.2.0'
+
+end
